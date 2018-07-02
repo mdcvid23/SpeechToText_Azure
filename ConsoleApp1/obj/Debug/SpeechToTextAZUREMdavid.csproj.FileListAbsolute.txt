@@ -1,0 +1,11 @@
+C:\Users\albertohernandez\Desktop\prueba2-master\ConsoleApp1\bin\Debug\Grabación.wav
+C:\Users\albertohernandez\Desktop\prueba2-master\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\albertohernandez\Desktop\prueba2-master\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\albertohernandez\Desktop\prueba2-master\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\albertohernandez\Desktop\prueba2-master\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\albertohernandez\Desktop\prueba2-master\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\albertohernandez\Desktop\prueba2-master\ConsoleApp1\obj\Debug\SpeechToTextAZUREMdavid.csprojAssemblyReference.cache
+C:\Users\albertohernandez\Desktop\prueba2-master\ConsoleApp1\obj\Debug\SpeechToTextAZUREMdavid.csproj.CoreCompileInputs.cache
+C:\Users\albertohernandez\Desktop\prueba2-master\ConsoleApp1\obj\Debug\SpeechToTextAZUREMdavid.csproj.CopyComplete
+C:\Users\albertohernandez\Desktop\prueba2-master\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\albertohernandez\Desktop\prueba2-master\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
